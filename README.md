@@ -1,2 +1,2 @@
 # attention
-exploring attention, particularly transformers.
+exploring attention, transformers demos and more.
