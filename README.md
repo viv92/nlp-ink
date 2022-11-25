@@ -1,2 +1,3 @@
-# transformer demos
-exploring attention, transformers demos and more.
+# NLP Ink
+Tutorial programs in NLP: going from Word2Vec to Transformers
+Inspired from @graykode
